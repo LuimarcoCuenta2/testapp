@@ -41,7 +41,21 @@ Este proyecto forma parte de un proceso de aprendizaje en desarrollo de aplicaci
 
 ---
 
+> Nota: `10.0.2.2` es una IP especial del emulador que apunta al localhost del PC.
+
+---
+
+## 📸 Capturas de pantalla
+
+> (Aquí puedes agregar imágenes más adelante)
+
+Ejemplo:
+```markdown
+![Login](screenshots/login.png)
+![Registro](screenshots/register.png)
+
 ## 🧩 Estructura del proyecto
+
 app/
 ├── screens/
 │ ├── LoginScreen.kt

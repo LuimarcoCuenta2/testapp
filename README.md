@@ -42,4 +42,11 @@ Este proyecto forma parte de un proceso de aprendizaje en desarrollo de aplicaci
 ---
 
 ## 🧩 Estructura del proyecto
-
+app/
+├── screens/
+│ ├── LoginScreen.kt
+│ ├── RegisterScreen.kt
+├── ui/
+│ └── theme/
+├── MainActivity.kt
+└── AndroidManifest.xml

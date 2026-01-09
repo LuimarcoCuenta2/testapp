@@ -8,6 +8,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.testapp.screens.LoginScreen
+import com.example.testapp.screens.RegisterScreen
 import com.example.testapp.ui.theme.TestAppTheme
 
 class MainActivity : ComponentActivity() {
@@ -29,7 +30,7 @@ class MainActivity : ComponentActivity() {
 
                     // Más adelante puedes agregar:
                     // composable("Welcome") { WelcomeScreen(navController) }
-                    // composable("Register") { RegisterScreen(navController) }
+                     composable("Register") { RegisterScreen(navController) }
                 }
             }
         }
